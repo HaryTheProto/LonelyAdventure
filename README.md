@@ -1,6 +1,6 @@
 # Lonely Adventure 
 
-## Wersja Modpacka: 1.0.7.1
+## Wersja Modpacka: 1.0.7.2
 
 Lonely Adventure Minecraft Mod Pack
 
